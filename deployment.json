@@ -1,6 +1,6 @@
 {
         "strategy": "hanaxs",
 	"host": "localhost:30013",
-	"pattern": "helloworld"
+	"pattern": "helloworld",
 	"root": "foo"
 }
