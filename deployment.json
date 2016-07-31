@@ -1,5 +1,5 @@
 {
         "strategy": "hanaxs",
-	"host": "dshell.sapdevcenter.com:30015",
+	"host": "localhost:30013",
 	"root": "foo"
 }
